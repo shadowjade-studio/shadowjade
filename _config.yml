@@ -1,0 +1,45 @@
+title: Hi! 这里是影玲工作室
+author: shadow jade studio
+email: admin@shadowjade.studio
+description: > # this means to ignore newlines until "show_exerpts:"
+  这里是写网站描述的地方
+show_excerpts: true # set to true to show excerpts on the homepage
+#baseurl: www.shadowjade.studio
+sitebaseurl: www.shadowjade.studio
+
+
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+sass:
+  sass_dir: _sass
+  
+
+permalink: /posts/:title/
+texture:
+  title: 影玲工作室
+  tagline: 帮我想一个slogan
+  date_format: "%b %-d, %Y"
+  style: black
+  showNav: false
+  showPicker: false
+
+  # generate social links in footer
+  social_links:
+    #twitter: thelehhman
+    github:  shadowjade-studio
+    #linkedIn: in/thelehhman
+    email: admin@shadowjade.studio
+    rss: rss
+ 
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.md
+
+# Build settings
+#theme: texture
+
+plugins:
+  - jekyll-seo-tag
+#  - jekyll-feed
