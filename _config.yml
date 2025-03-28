@@ -17,7 +17,7 @@ sass:
 permalink: /posts/:title/
 texture:
   title: 影玲工作室
-  tagline: 帮我想一个slogan
+  tagline: 未琢为玲 百炼为玉
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
