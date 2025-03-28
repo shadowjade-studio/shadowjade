@@ -44,8 +44,8 @@ date:   2025-03-29 00:00:00 +0530
 _(逝去的青春啊... 叹气)_
 
 <div align="center">
-  <img src="/assets/img/1-4.jpg" alt="其他游戏" width="80%" style="border-radius: 10px;">
-  <p style="font-size: 0.8em; color: gray;">其他游戏</p>
+  <img src="/assets/img/1-4.jpg" alt="广泛涉猎" width="80%" style="border-radius: 10px;">
+  <p style="font-size: 0.8em; color: gray;">广泛涉猎</p>
 </div>
 
 <br>
