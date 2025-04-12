@@ -5,14 +5,11 @@ date:   2025-04-13 00:00:00 +0800
 ---
 
 ## 欢迎来到影玲工作室的愚人节服务器！
-
 <div align="center">
   <img src="/assets/img/2-1.png" alt="服务器" width="80%" style="border-radius: 10px;">
   <p style="font-size: 0.8em; color: gray;">服务器</p>
 </div>
-
 **服务器地址：mc.shadowjade.studio**
-
 **版本：** 25w14craftmine (愚人节特别版)
 
 **核心玩法：Roguelike 矿境探险**
