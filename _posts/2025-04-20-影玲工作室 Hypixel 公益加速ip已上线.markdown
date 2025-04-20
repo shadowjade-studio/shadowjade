@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "影玲工作室 Hypixel 公益加速线路已上线"
+title:  "影玲工作室 Hypixel 公益加速ip已上线"
 date:   2025-04-20 00:00:00 +0800
 ---
 
-## 影玲工作室 Hypixel 公益加速线路已上线
+## 影玲工作室 Hypixel 公益加速ip已上线
 **加速线路地址：**
 **`hypixel.shadowjade.studio`**
 
