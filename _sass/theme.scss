@@ -256,3 +256,21 @@ header {
 	}
 }
 
+/* 主题的其他样式 */
+
+table {
+  border-collapse: collapse;
+  width: 100%; /* 可选，设置表格宽度 */
+  margin: 1em 0; /* 可选，添加表格上下间距 */
+}
+
+th,
+td {
+  border: 1px solid black;
+  padding: 0.5em; /* 将 8px 改为 em 单位，更灵活 */
+  text-align: left;
+}
+
+th {
+  background-color: #f2f2f2; /* 可选，设置表头背景颜色 */
+}
