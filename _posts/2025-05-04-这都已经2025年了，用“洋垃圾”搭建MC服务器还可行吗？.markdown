@@ -86,15 +86,15 @@ MC服务器的流畅运行很大程度上取决于CPU的性能，并且MC是一�
 
 **E5-2696 V3:**
 
-![E5-2696 V3 地图加载 1](assets/img/e5vsi5/e5-load-1.webp)
+![E5-2696 V3 地图加载 1](/assets/img/e5vsi5/e5-load-1.webp)
 
-![E5-2696 V3 地图加载 2](assets/img/e5vsi5/e5-load-2.webp)
+![E5-2696 V3 地图加载 2](/assets/img/e5vsi5/e5-load-2.webp)
 
 **i5-7300HQ:**
 
-![i5-7300HQ 地图加载 1](assets/img/e5vsi5/i5-load-1.webp)
+![i5-7300HQ 地图加载 1](/assets/img/e5vsi5/i5-load-1.webp)
 
-![i5-7300HQ 地图加载 2](assets/img/e5vsi5/i5-load-2.webp)
+![i5-7300HQ 地图加载 2](/assets/img/e5vsi5/i5-load-2.webp)
 
 >**TPS (Ticks Per Second)：**
 >
@@ -123,15 +123,15 @@ MC服务器的流畅运行很大程度上取决于CPU的性能，并且MC是一�
 
 **E5-2696 V3:**
 
-![E5-2696 V3 长距离传送 1](assets/img/e5vsi5/e5-tp-1.webp)
+![E5-2696 V3 长距离传送 1](/assets/img/e5vsi5/e5-tp-1.webp)
 
-![E5-2696 V3 长距离传送 2](assets/img/e5vsi5/e5-tp-2.webp)
+![E5-2696 V3 长距离传送 2](/assets/img/e5vsi5/e5-tp-2.webp)
 
 **i5-7300HQ:**
 
-![i5-7300HQ 长距离传送 1](assets/img/e5vsi5/i5-tp-1.webp)
+![i5-7300HQ 长距离传送 1](/assets/img/e5vsi5/i5-tp-1.webp)
 
-![i5-7300HQ 长距离传送 2](assets/img/e5vsi5/i5-tp-2.webp)
+![i5-7300HQ 长距离传送 2](/assets/img/e5vsi5/i5-tp-2.webp)
 
 在长距离传送下，i5-7300HQ 的表现极差，区块加载需要非常长的时间，i5-7300HQ 的 TPS 无法稳定在 20，下降至 16.72，同时 MSPT Max 值飙升至 5770ms，服务器也出现了overload提示。相比之下，E5-2696 V3 的表现相对稳定，地图加载速度还是比较快的，TPS 仍能稳定在20，MSPT Max 值为 696ms，95%ile 值为 13.1ms (甚至优于之前的跑图测试)。不过这次测试出现了一个很奇怪的现象，i5-7300HQ MSPT 居然随着TPS的减小而减小，这是很不正常的现象。
 ### 百万船吸刷怪塔性能对比
@@ -140,15 +140,15 @@ MC服务器的流畅运行很大程度上取决于CPU的性能，并且MC是一�
 
 **E5-2696 V3:**
 
-![E5-2696 V3 刷怪塔 1](assets/img/e5vsi5/e5-sg-1.webp)
+![E5-2696 V3 刷怪塔 1](/assets/img/e5vsi5/e5-sg-1.webp)
 
-![E5-2696 V3 刷怪塔 2](assets/img/e5vsi5/e5-sg-2.webp)
+![E5-2696 V3 刷怪塔 2](/assets/img/e5vsi5/e5-sg-2.webp)
 
 **i5-7300HQ:**
 
-![i5-7300HQ 刷怪塔 1](assets/img/e5vsi5/i5-sg-1.webp)
+![i5-7300HQ 刷怪塔 1](/assets/img/e5vsi5/i5-sg-1.webp)
 
-![i5-7300HQ 刷怪塔 2](assets/img/e5vsi5/i5-sg-2.webp)
+![i5-7300HQ 刷怪塔 2](/assets/img/e5vsi5/i5-sg-2.webp)
 
 在该项测试中，i5-7300HQ 表现较为良好，TPS 居然能勉强稳定在20左右，95%ile 值为 53ms，还算是比较流畅。相比之下 E5-2696 V3 在百万船吸刷怪塔的攻势下尽现颓势，服务器的 TPS 来到了可怜的 13.81，95%ile 值也大幅上升至 91.4ms。
 
@@ -163,8 +163,8 @@ MC服务器的流畅运行很大程度上取决于CPU的性能，并且MC是一�
     <th style="text-align:center;">E5-2696 V3 (高负载)</th>
   </tr>
   <tr>
-    <td style="text-align:center;"><img src="assets/img/e5vsi5/e5-low.webp" alt="E5-2696 V3 待机功耗" style="width:80%;"></td>
-    <td style="text-align:center;"><img src="assets/img/e5vsi5/e5-high.webp" alt="E5-2696 V3 高负载功耗" style="width:80%;"></td>
+    <td style="text-align:center;"><img src="/assets/img/e5vsi5/e5-low.webp" alt="E5-2696 V3 待机功耗" style="width:80%;"></td>
+    <td style="text-align:center;"><img src="/assets/img/e5vsi5/e5-high.webp" alt="E5-2696 V3 高负载功耗" style="width:80%;"></td>
   </tr>
 </table>
 
@@ -176,8 +176,8 @@ MC服务器的流畅运行很大程度上取决于CPU的性能，并且MC是一�
     <th style="text-align:center;">i5-7300HQ (高负载)</th>
   </tr>
   <tr>
-    <td style="text-align:center;"><img src="assets/img/e5vsi5/i5-low.webp" alt="i5-7300HQ 待机功耗" style="width:80%;"></td>
-    <td style="text-align:center;"><img src="assets/img/e5vsi5/i5-high.webp" alt="i5-7300HQ 高负载功耗" style="width:80%;"></td>
+    <td style="text-align:center;"><img src="/assets/img/e5vsi5/i5-low.webp" alt="i5-7300HQ 待机功耗" style="width:80%;"></td>
+    <td style="text-align:center;"><img src="/assets/img/e5vsi5/i5-high.webp" alt="i5-7300HQ 高负载功耗" style="width:80%;"></td>
   </tr>
 </table>
 
