@@ -42,6 +42,12 @@ table_padding: 8px
 # Build settings
 #theme: texture
 
+sitemap:
+  exclude:
+    - /404.html
+    - Gemfile
+
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
 #  - jekyll-feed
