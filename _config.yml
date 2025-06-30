@@ -2,7 +2,7 @@ title: Hi! 这里是影玲工作室
 author: shadow jade studio
 email: admin@shadowjade.studio
 description: > # this means to ignore newlines until "show_exerpts:"
-  这里是写网站描述的地方
+  专注于分享一些实用小技巧
 show_excerpts: true # set to true to show excerpts on the homepage
 #baseurl: www.shadowjade.studio
 sitebaseurl: www.shadowjade.studio
