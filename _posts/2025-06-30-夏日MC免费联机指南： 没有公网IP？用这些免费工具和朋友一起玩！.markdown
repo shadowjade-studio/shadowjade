@@ -38,13 +38,13 @@ date: 2025-06-30 00:00:00 +0800
 *   **使用难度：☆☆（极易）**
 *   **使用方法简介：** 这是测试中上手流程最简洁的一款。**无需注册任何账号！**
     1.  作为建服者：下载安装 Radmin VPN 后，在软件中选择“创建网络”，设定一个**网络名称**和**密码**。
-<center> <img src="/assets/img/xunijuyuwang/1.webp" alt="Radmin VPN 创建"> </center>
+    <center> <img src="/assets/img/xunijuyuwang/1.webp" alt="Radmin VPN 创建"> </center>
     2.  将这个**网络名称**和**密码**分享给你的朋友。
     3.  朋友们：下载安装 Radmin VPN 后，选择“加入网络”，输入你提供的**网络名称**和**密码**。
     <center> <img src="/assets/img/xunijuyuwang/2.webp" alt="Radmin VPN 加入"> </center>
     4.  连接成功后，所有加入同一网络的朋友，就可以使用软件内显示的对方设备的IP地址（通常是172.x.x.x或26.x.x.x开头）来连接MC服务器了。
-*   **简评：** 流程直观，没有任何复杂的步骤或注册要求。对于目标是**快速与少量朋友联机MC**的入门用户来说，Radmin VPN 是最推荐的选择。它官方宣称对游戏联机有优化，且免费版没有设备或速度限制。
-* 在写文章的时候发现Radmin VPN有防火墙设置，可以允许特定应用通过服务器，安全性更高。
+*   **简评：** 流程直观，没有任何复杂的步骤或注册要求。对于目标是**快速与少量朋友联机MC**的入门用户来说，Radmin VPN 是最推荐的选择。它官方宣称对游戏联机有优化，且免费版没有设备或速度限制。  
+在写文章的时候发现Radmin VPN有防火墙设置，允许用户指定哪些应用程序可以通过虚拟网络进行通信，安全性更高。
 <center> <img src="/assets/img/xunijuyuwang/3.webp" alt="Radmin VPN 防火墙"> </center>
 
 ### 2. ZeroTier One：功能强大，稍需注册与授权
