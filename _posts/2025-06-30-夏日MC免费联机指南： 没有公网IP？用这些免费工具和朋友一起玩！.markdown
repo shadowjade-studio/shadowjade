@@ -41,6 +41,7 @@ date: 2025-06-30 00:00:00 +0800
 
     1.  作为建服者：下载安装 Radmin VPN 后，在软件中选择“创建网络”，设定一个**网络名称**和**密码**。
 <center> <img src="/assets/img/xunijuyuwang/1.webp" alt="Radmin VPN 创建"> </center>
+
     2.  将这个**网络名称**和**密码**分享给你的朋友。
 
     3.  朋友们：下载安装 Radmin VPN 后，选择“加入网络”，输入你提供的**网络名称**和**密码**。
