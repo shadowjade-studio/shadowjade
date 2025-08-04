@@ -8,7 +8,7 @@
     <div class="container">
       {%- include nav.html -%}
     </div>
-    {%- include post_header.html -%}  
+    {%- include post_header.html -%}
   </header>
   <main>
     <div class="container">
@@ -16,6 +16,23 @@
           {{ content }}
       </div>
 
+      <script src="https://giscus.app/client.js"
+        data-repo="shadowjade-studio/discussion"
+        data-repo-id="R_kgDOPX_60w"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOPX_6084Ctwnj"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="preferred_color_scheme"
+        data-lang="zh-CN"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+      </script>
+      
         <!-- Configure Disqus -->
       {%- if site.texture.disqus_shortname -%}
         <div id="disqus_thread" style="margin-top:25px"></div>
