@@ -42,6 +42,7 @@ auth.token = "Freetousevaliduntil2026-1-1@Antares.xin" # 令牌，客户端与�
 5. 将frp添加为服务并开启开机自启动
 	1. 按下CTRL+C中断进程
 	2. 创建 frps.service 文件
+	`sudo vim /etc/systemd/system/frps.service`
 	3. 写入内容
 	![写入内容](https://img.antares.xin/frp/18.webp)
 	
@@ -96,7 +97,7 @@ sudo systemctl enable frps
 ## 最终效果如下
 ![最终效果](https://img.antares.xin/frp/15.webp)
 ![最终效果](https://img.antares.xin/frp/16.webp)
-、![最终效果](https://img.antares.xin/frp/17.webp)
+![最终效果](https://img.antares.xin/frp/17.webp)
 ## 参考的教程如下
 1. [轻松掌握热门内网穿透工具：快速实现内网服务外部访问](https://jwinks.com/p/frp/#%E4%BB%80%E4%B9%88%E6%98%AF%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F)
 2. [安装 | frp](https://gofrp.org/zh-cn/docs/setup/)
